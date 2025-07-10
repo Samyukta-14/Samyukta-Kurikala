@@ -6,7 +6,6 @@ This website showcases my skills, projects, work experience, certifications, and
 ## 🌐 Live Website
 https://samyuktakurikala.netlify.app
 ---
-
 ## 📚 Project Structure
 
 ```
