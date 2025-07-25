@@ -342,7 +342,7 @@ section:not(.hero):nth-child(odd) {
 }
 
 section:not(.hero):nth-child(even) {
-    background-color: var(--white);
+    background-color: var(--beige);
 }
 
 /* Hero section keeps beige background */
