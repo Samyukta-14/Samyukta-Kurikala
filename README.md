@@ -11,10 +11,11 @@ https://samyuktakurikala.netlify.app
 
 ```
 /assets
-    /img
-        Samyukta.jpg        # Profile photo
-    /docs
-        resume.pdf          # Downloadable Resume
-portfolio.css               # Custom CSS styling
-index.html                  # Main HTML file
+    SamyuktaKurikala_Resume.pdf
+/css
+    portfolio.css
+/images
+    Samyukta-x.jpg
+    icon.png
+index.html
 ```
